@@ -4,7 +4,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/AgamStudio/",
+  base: "/AgamStudio-site/",
   server: {
     host: "::",
     port: 8080,
